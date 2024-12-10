@@ -6,8 +6,8 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @Configuration
-@EnableJpaRepositories({ "fr.codecake.spotifyclone.usercontext.repository",
-        "fr.codecake.spotifyclone.catalogcontext.repository" })
+@EnableJpaRepositories({ "en.g3.groovy.usercontext.repository",
+        "en.g3.groovy.catalogcontext.repository" })
 @EnableTransactionManagement
 @EnableJpaAuditing
 public class DatabaseConfiguration {

@@ -8,10 +8,10 @@
 		<version>3.2.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>fr.codecake</groupId>
-	<artifactId>spotify-clone-back</artifactId>
+	<groupId>en.g3</groupId>
+	<artifactId>groovy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spotify-clone-back</name>
+	<name>groovy</name>
 	<description>Spotify Clone API</description>
 	<properties>
 		<java.version>21</java.version>
