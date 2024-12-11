@@ -1,6 +1,6 @@
 # GROOVY (Fullstack) avec Spring boot 3, Angular 17, Bootstrap 5, PostgreSQL, Auth0 (2024) (Backend)
 
-Spring boot backend of the spotify clone
+Spring boot backend of Groovy
 
 ### Key Features :
 - 🔐 Security with Auth0 (OAuth2)
